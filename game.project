@@ -3,7 +3,7 @@ title = PublicExamples
 custom_resources = 
 
 [bootstrap]
-main_collection = /examples/pick_scaled_node/pick_scaled_node.collectionc
+main_collection = /examples/gui_follows_go/gui_follows_go.collectionc
 render = /builtins/render/default.renderc
 
 [input]
